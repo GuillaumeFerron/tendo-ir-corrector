@@ -27,7 +27,7 @@ export default {
     return {
       tooltip: {
         old: 'https://docs.google.com/spreadsheets/d/1p97peW20VoKCdGYMaG4p_3ZYsK9Tkc6iJP4HZKpKzVk/edit?gid=0#gid=0',
-        guide: ''
+        guide: 'https://scribehow.com/shared/Using_Tendo_IR_Corrector_for_Loan_Adjustments__tRtI0AGtQIWH9XeMCUiOaQ'
       }
     }
   },
